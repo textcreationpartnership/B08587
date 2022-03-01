@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Serenæ veritatis gratia There having lately been scattered abroad by Richard Lowndes book-seller, a scandalous paper, touching those so famous and long approved lozenges, made and publickly sold by Thoephilus Buckworth Gent. the first true author and inventer of them : the said Mr. Buckworth to vindicate himself from the scandalous aspersions of the said paper, and to undeceive the people from the traducements of Lownes, Peircy, and all other pretenders.</title>
+            <author>Buckworth, Theophilus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08587</idno>
+            <idno type="STC">Wing B5354D</idno>
+            <idno type="STC">ESTC R224390</idno>
+            <idno type="EEBO-CITATION">64551004</idno>
+            <idno type="OCLC">ocm 64551004</idno>
+            <idno type="VID">184398</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184398)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Serenæ veritatis gratia There having lately been scattered abroad by Richard Lowndes book-seller, a scandalous paper, touching those so famous and long approved lozenges, made and publickly sold by Thoephilus Buckworth Gent. the first true author and inventer of them : the said Mr. Buckworth to vindicate himself from the scandalous aspersions of the said paper, and to undeceive the people from the traducements of Lownes, Peircy, and all other pretenders.</title>
+                  <author>Buckworth, Theophilus.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Theophilus Buckworth.  Cf. Wing (2nd ed.).</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Buckworth, Theophilus.</term>
+               <term>Booksellers and bookselling --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184398:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>Serenae veritatis gratia.</head>
+            <p>THere having lately been ſcattered abroad by <hi>Richard Lowndes Book-ſeller,</hi> a ſcandalous <hi>Paper,</hi> touching thoſe ſo Famous and long approved <hi>Lozenges,</hi> made and publickly ſold by <hi>Theophilus Buckworth</hi> Gent. the firſt true <hi>Author</hi> and <hi>Inventer</hi> of them: the ſaid Mr. <hi>Buckworth</hi> to vindicate himſelf from the ſcandalous <hi>aſperſions</hi> of the ſaid <hi>Paper,</hi> and to <hi>undeceive</hi> the people from the traducements of <hi>Lowndes, Peircy,</hi> and all other <hi>pretend<g ref="char:EOLhyphen"/>ers;</hi> doth publiſh this ſhort paper to ſatisfie the World once for all, the whole truth; deſiring all people hereby to reſt ſatisfied, whatever untruths, or abuſive pretences the ſaid <hi>Lowndes, Peircy,</hi> or any of their <hi>Complices</hi> ſhall hereafter forge or imagine; the ſaid Mr. <hi>Buckworth</hi> will reſt ſilent; accounting them not worthy an anſwer: But to their late ſcandalous paper, Entituled, <hi>(An Ad<g ref="char:EOLhyphen"/>vertiſement of Concern to this City and the whole Kingdome.)</hi> Mr. <hi>Buckworth</hi> ſaith;</p>
+            <p>That he never heard of any ſuch man as Doctor <hi>Moor,</hi> nor believes that ever <hi>Peircy</hi> was his man.</p>
+            <p>He denies not but that he did formerly inhabit at Saint <hi>Faiths</hi> near <hi>Norwich,</hi> and did ſometimes imploy his Stock and Servants in the Trade of <hi>Mal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing,</hi> which he thinks is no diſparagement to any Gentleman to do.</p>
+            <p>Whiles he lived at Saint <hi>Faiths</hi> he knew ſuch a man as <hi>Peircy,</hi> a perſon of ſuch demeanor, as he never had, nor would have any intimacy with: and for making uſe of his <hi>Lozenges,</hi> or any thing that he ſhould gain from <hi>Peircy,</hi> he utterly does abhor and deteſt: And for <hi>Peircy</hi>'s being fa<g ref="char:EOLhyphen"/>mous amongſt the Nobility and Gentry in that Countrey, truly he never knew nor heard whiles he lived there, but his intimacy was with Tapſters and Oſtlers, and ſuch like perſons: and for his <hi>Lozenges,</hi> there is a Gentleman hath a Receipt of them, written with <hi>Peircy</hi>'s own hand, with whom Mr. <hi>Buckworth</hi> hopes to prevail to get Printed, to let the World ſee what his <hi>Lozenges</hi> are.</p>
+            <p>The ſaid Mr. <hi>Theophilus Buckworth,</hi> and his Brother <hi>Edmund Buckworth,</hi> have made theſe <hi>Lo<g ref="char:EOLhyphen"/>zenges</hi> above theſe Twenty four years.</p>
+            <p>
+               <hi>Lowndes</hi> in Saint <hi>Pauls</hi> Church-yard hath put Mr. <hi>Buckworths Lozenges</hi> to ſale for him, ever ſince the firſt publication of them, many years before ever <hi>Peircy</hi> was heard of; and the ſaid <hi>Lowndes</hi> lately Printed a Bill himſelf, to vindicate Mr. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>orth;</hi> and thereby publiſhed the ſaid <hi>Peircy</hi> to be a <hi>Cheat</hi> and a <hi>Counterfeit,</hi> and his <hi>Lozenges</hi> dangerous; and for that cauſe the ſaid <hi>Lowndes</hi> preferred a Bill of Indictment againſt <hi>Peircy,</hi> in Mr. <hi>Buckworths</hi> name at the Seſſions, without his conſent or knowledge.</p>
+            <p>The ſaid <hi>Lowndes</hi> would never have taken part with <hi>Peircy,</hi> but becauſe Mr. <hi>Buckworth</hi> would not let him have his <hi>Lozenges</hi> at ſo mean a rate as <hi>Peircy</hi> doth. The ſaid <hi>Lowndes</hi> came to Mr. <hi>Buckworth,</hi> and asked him if he would allow him a pound of <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zenges</hi> more into ten pounds worth; which Mr. <hi>Buckworth</hi> denying him, well ſaith <hi>Lowndes,</hi> then I will ſell <hi>Peircy</hi>'s, for I can have his cheaper: and being told that <hi>Peircy</hi>'s <hi>Lozenges</hi> were not ſo good as <hi>Buckworths,</hi> his anſwer was, he cared not, his Sign was the <hi>White Lion</hi> ſtill, and his Shop was ſo generally known the Kingdom through, for ſelling <hi>Lozenges,</hi> that he could ven<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them if they were Brick-bats.</p>
+            <p>That ſince Mr. <hi>Buckworth</hi> would not conſent to <hi>Lowndes</hi> his demands, he hath confederated with <hi>Peircy;</hi> and in <hi>Peircy</hi>'s name it is true they have contrived a Bill of Indictment againſt Mr. <hi>Buck<g ref="char:EOLhyphen"/>worth:</hi> but it is falſe to ſay he never appeared to juſtifie himſelf; for (notwithſtanding he hath lately been very week with ſickneſs) he appeared, and hath defended it, and is proſecuting his Tra<g ref="char:EOLhyphen"/>verſe in the <hi>Kings Bench.</hi>
+            </p>
+            <p>This is briefly the whole truth of all <hi>tranſactions,</hi> ſince the original making and publication of the ſaid <hi>Lozenges</hi> by Mr. <hi>Buckworth:</hi> if any deſire further ſatisfaction, the Author Mr. <hi>Buckworth</hi> lodgeth at the houſe of Mr. <hi>Thomas Rooks</hi> a Stationer, at the <hi>Holy Lamb</hi> at the Eaſt end of Saint <hi>Pauls</hi> Church near the School, where he will give them a more clear information, and there his ſaid <hi>Lozenges</hi> are always ready to be ſold.</p>
+            <div type="part">
+               <head>Directions for taking the ſo much approved <hi>Lozenges,</hi> with their ſeveral Cures, and the Partis names that ſell them.</head>
+               <p>
+                  <hi>TAke the quantity of a ſmall Nutmeg at night going to bed, and in the morning when you riſe, or at any other convinient time, letting them diſſolve in your mouth, ſo that you may eat a quarter of a pound in four or five days. The Cures are Conſumptions, Coughs, Cathars, Aſthma's, ſtrongneſs of Breath, Hoarſneſs, Colds in general, Ptiſſicks, and all othet diſeaſes incident to the L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngs; as alſo a great Antidote againſt the Plague and all other contagious diſeaſes. They are onely made by Mr.</hi> Theophilus Buckworth, <hi>and ſeal<g ref="char:EOLhyphen"/>ed up with his Coat of Arms upon every quarter of a pound, with</hi> 2 <hi>s.</hi> 6 d. <hi>on the ſame paper. And for more conveniency for thoſe that live remote in and about the City of</hi> London, <hi>quantities of them are con<g ref="char:EOLhyphen"/>ſtantly to be had at the Authors ſaid Lodging at Mr.</hi> Rookes, <hi>Mrs.</hi> Anne Seile <hi>over againſt St.</hi> Dun<g ref="char:EOLhyphen"/>ſtans <hi>Church in</hi> Fleet-ſtreet, <hi>Mr.</hi> Melward <hi>at</hi> Weſtminſter Hall Gate, <hi>Mr.</hi> William Place <hi>at</hi> Grays-Inne Gate <hi>in</hi> Holborn, <hi>Mr.</hi> Thomas Clarke <hi>late Shop of Mr.</hi> Bourn <hi>at the entrance of the</hi> Royal Ex<g ref="char:EOLhyphen"/>change, <hi>Mr.</hi> Joſeph Cranford <hi>at the</hi> Gun <hi>in St.</hi> Pauls <hi>Church-yard, near the Shop of Mr.</hi> Lowndes, <hi>Mr.</hi> Speed <hi>at the</hi> Printing-Preſs <hi>in St.</hi> Pauls <hi>Church-yard, and at Mr.</hi> Magnus <hi>in</hi> Covent-Garden, <hi>where the Post Letters are left.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
